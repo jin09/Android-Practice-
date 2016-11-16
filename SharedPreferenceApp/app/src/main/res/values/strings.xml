@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferenceApp</string>
+    <string name="prefs_file_name">PREFS_FILE</string>
+</resources>

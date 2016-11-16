@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="btn2_name">FALSE</string>
+    <string name="btn1_name">TRUE</string>
+    <string name="ques1">Is 19 a prime number !! </string>
+    <string name="ques2">Is 24 a prime number !! </string>
+    <string name="ques3">Is 17 a prime number !! </string>
+    <string name="ques4">Is 57 a prime number !! </string>
+    <string name="ques5">Is 45 a prime number !! </string>
+    <string name="correctToast">Ans is correct</string>
+    <string name="wrongToast">Ans is wrong</string>
+    <string name="btn3_name">Next</string>
+    <string name="btn4_name">prev</string>
+    <string name="btn5_name">CHEAT</string>
+    <string name="cheat_warning">!! You are using the cheat !!</string>
+    <string name="show_cheat_btn">show cheat</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1Primes</string>
+    <string name="nextString">NEXT</string>
+    <string name="falseString">FALSE</string>
+    <string name="trueString">TRUE</string>
+    <string name="correct">Correct Answer !!</string>
+    <string name="wrong">Wrong Answer !!</string>
+</resources>
